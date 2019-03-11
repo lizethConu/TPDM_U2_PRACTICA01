@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/insertarp" android:title="Insertar Proyecto" />
+    <item android:id="@+id/eliminarp" android:title="Eliminar Proyecto"/>
+    <item android:id="@+id/actualizarp" android:title="Actualizar proyecto"/>
+    <item android:id="@+id/consultarp" android:title="Consultar proyecto"/>
+</menu>
